@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div width="100%">
-        <img src="./img/microsoft-certified-azure-fundamentals2.png" width="45%"/ align="right">
+        <img src="./img/microsoft-certified-azure-fundamentals2.png" width="40%"/ align="right">
 <h1> Hello! I'm Jessica </h1>
 </div>
 
