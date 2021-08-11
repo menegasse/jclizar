@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 - Love python and data science
 
 ### About me
-<p>
-  <a href="https://www.linkedin.com/in/jclizar/">
-  <img src="https://img.shields.io/badge/-Linkedln-orange">
-</a> <a href="http://lattes.cnpq.br/7666845951657212">
-  <img src="https://img.shields.io/badge/-Lattes-orange">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jclizar/)](https://www.linkedin.com/in/jclizar/)
+ <a href="http://lattes.cnpq.br/7666845951657212">
+  <img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square">
 </a>
-</a> <a href="https://www.credly.com/badges/68cc247f-53a8-4433-a32b-acf0fccad32c/linked_in">
-  <img src="https://img.shields.io/badge/Microsoft-Badge-blue">
+<a href="https://www.credly.com/badges/68cc247f-53a8-4433-a32b-acf0fccad32c/linked_in">
+  <img src="https://img.shields.io/badge/Microsoft-Badge-orange?style=flat-square">
 </a> 
-</p>
+
